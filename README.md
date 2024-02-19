@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoderKhad
+- 👋 Hi, I’m Khadija
 - 👀 I’m interested in technology,planes
 - 🌱 I’m currently learning phyton
 - 📫 How to reach me khadijaflem14@gmail.com
