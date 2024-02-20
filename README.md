@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khadija
-- 👀 I’m interested in technology,planes
-- 🌱 I’m currently learning phyton
+- 👀 I’m interested in technology, data science and learning new languages 
+- 🌱 I’m currently learning phyton, I have knowledege in C++ and HTML
 - 📫 How to reach me khadijaflem14@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like sleeping
